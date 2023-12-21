@@ -3,10 +3,9 @@ www.dio.me
 
 ## Desafio de projeto
 
-Neste desafio o desenvolvedor é responsável por modelar um sistema que trabalha com celulares. Para isso, foi solicitado que o desenvolvedor fizesse uma abstração de um celular e disponibilizasse maneiras de diferentes marcas e modelos terem seu próprio comportamento, possibilitando um maior reuso de código e usando a orientação a objetos.
+Neste desafio, o desenvolvedor tem a responsabilidade de conceber um sistema dedicado ao funcionamento de dispositivos celulares. A tarefa consiste em criar uma abstração para um celular, permitindo que diferentes marcas e modelos possuam comportamentos distintos. Isso viabilizará a reutilização de código e seguirá os princípios da orientação a objetos.
 
-O desenvolvedor precisa criar um sistema em .NET, do tipo console, mapeando uma classe abstrata e classes específicas para dois tipos de celulares: Nokia e iPhone. 
-Para isso, deve-se criar as suas classes de acordo com o diagrama abaixo:
+O objetivo é desenvolver um sistema em .NET, de natureza console, que mapeie uma classe abstrata e classes específicas para dois tipos de celulares: Nokia e iPhone. Para isso, será necessário criar as classes de acordo com o diagrama fornecido.
 
 ![Diagrama classes](Imagens/diagrama.png)
 
